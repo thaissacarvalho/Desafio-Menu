@@ -8,8 +8,8 @@
 <p align="center"> As seguintes ferramentas foram usadas na construção do projeto: </p>
 
 <p align="center">
-- [HTML](https://html.com/)
-- [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
+- [HTML](https://html.com/) <br>
+- [CSS](https://www.w3.org/Style/CSS/Overview.en.html) <br>
 - [JavaScript](https://www.javascript.com/)
 </p>
 
