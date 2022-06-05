@@ -1,20 +1,16 @@
-# Desafio Menu
-
-## Descrição do Projeto
-
 <h3 align="center">
-    <a href="">🔗 Desafio Menu</a>
+    <a href="https://thaissacarvalho.github.io/Desafio-Menu/">🔗 Desafio Menu</a>
 </h3>
-<p align="center">🚀 Esse desafio foi ideia do curso do Cod3r Cursos Online como forma de treinarmos nosso CSS </p>
+<p align="center">🚀 Esse desafio foi ideia do curso do Cod3r Cursos Online pela Udemy como forma de treinarmos nosso CSS projetando uma header interativa. </p>
 
-### 🛠 Tecnologias
+<h3> 🛠 Tecnologias </h3>
 
-<p> As seguintes ferramentas foram usadas na construção do projeto: </p>
+<p align="center"> As seguintes ferramentas foram usadas na construção do projeto: </p>
 
 - [HTML](https://html.com/)
 - [CSS](https://www.w3.org/Style/CSS/Overview.en.html)
 - [JavaScript](https://www.javascript.com/)
 
-## Autor(a)
+<h3 align="center">Autor(a)</h3>
 
-Feito por Thaissa Carvalho. 
+<p align="center"> Feito por Thaissa Carvalho. </p> 
