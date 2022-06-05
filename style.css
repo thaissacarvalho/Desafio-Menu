@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(71, 6, 129);
+    font-family: 'Oswald', sans-serif;
+}
+
+header {
+    background-color: black;
+    padding: 15px;
+    box-sizing: content-box;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+img {
+    width: 250px;
+}
+
+.menu a:hover,
+.menu a.selected {
+            background-color: #077d17;
+            color: #000;
+        }
+
+.logo,
+.menu,
+.autenticacao {
+    display: inline-block;
+}
+
+.menu-toggle {
+    display: none;
+}
+
+.menu {
+    transform: translateY(-70%);
+    text-align: center;
+}
+
+li {
+    list-style-type: none;
+    display: inline;
+    margin: 10px;
+}
+
+li>a {
+    padding: 14px;
+}
+
+aside {
+    padding-right: 8px;
+}
+
+.autenticacao {
+    float: right;
+    transform: translateY(55%);
+    text-align: center;
+}
+
+.botao {
+    padding: 8px;
+    border-radius: 50px;
+}
+
+.destaque {
+    background-color: rgb(255, 64, 96);
+    margin-left: 10px;
+}
+
+hr {
+    border: 1.5px solid #077d17;
+}
+
+@media (min-width: 730px) and (max-width: 865px) {
+
+    body {
+        width: 100%;
+    }
+
+    .autenticacao {
+        display: none;
+    }
+}
+
+@media (max-width: 729px) {
+
+    .menu {
+        display: none;
+    }
+
+    .menu-toggle {
+        display: inline;
+        float: right;
+        transform: translateY(65%);
+    }
+
+    .autenticacao {
+        display: none;
+    }
+
+    button {
+        background-color: rgb(71, 6, 129);
+        border: solid 3px rgb(71, 6, 129);
+        color: #077d17;
+    }
+}
