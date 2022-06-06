@@ -11,7 +11,7 @@ body {
 header {
     background-color: black;
     padding: 15px;
-    height: 80px;
+    box-sizing: content-box;
 }
 
 a {
@@ -27,7 +27,7 @@ img {
 .menu a.selected {
             background-color: #077d17;
             color: #000;
-        }
+}
 
 .logo,
 .menu,
